@@ -46,7 +46,7 @@ If you're a student doing literature reviews, thesis work, or just keeping track
 
 | Library | Add Paper | Citation |
 |---|---|---|
-| `screenshot_library.png` | `screenshot_add.png` | `screenshot_cite.png` |
+| `Ui.png` | `screenshot_add.png` | `screenshot_cite.png` |
 
 ---
 
