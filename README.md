@@ -41,12 +41,7 @@ If you're a student doing literature reviews, thesis work, or just keeping track
 ---
 
 ## 📸 Screenshots
-
-> *(Add screenshots here after running the app — drag images into this section on GitHub)*
-
-| Library | Add Paper | Citation |
-|---|---|---|
-| `Ui.png` | `screenshot_add.png` | `screenshot_cite.png` |
+![Paperwise Home](Ui-app.png)
 
 ---
 
